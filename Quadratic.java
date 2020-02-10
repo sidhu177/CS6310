@@ -1,3 +1,7 @@
+// This is a recursive algorithm in Java taken from 2009 A Concise guide and Practical Introduction to Programming Algorithms in JAVA by Springer Publication
+// The following code takes 3 numbers from the user and gives back real roots. 
+
+
 import java.util.*;
 
 class QuadraticEquationRevisited
