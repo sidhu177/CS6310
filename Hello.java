@@ -1,3 +1,4 @@
+// program to print static message
 public class Hello {
 	public static void main(String[] args) 
 	{
