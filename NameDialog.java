@@ -1,5 +1,5 @@
 // Taken from Java How to Program by Paul Dietel 
-// This piece of code is to prompt user to enter name on a dialog box
+// This piece of code is to prompt user to enter name on a dialog box.
 
 import javax.swing.JOptionPane;
 
